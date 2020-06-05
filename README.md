@@ -2,7 +2,7 @@ Project on Explore-US-Bikeshare-Data-R
 
 
 ### Date created
-Created on 30 May,2020
+Created on 04 May,2020
 
 ### Project title
 Udacity Programming for Data Science Nanodegree Program Explore-US-Bikeshare-Data
